@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns:jxb="http://java.sun.com/xml/ns/jaxb" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://textgrid.info/namespaces/metadata/core/2010" xmlns:tgl="http://textgrid.info/namespaces/metadata/language/2010" xmlns:tgs="http://textgrid.info/namespaces/metadata/script/2010" xmlns:tgr="http://textgrid.info/namespaces/metadata/agent/2010" xml:id="tg1488" n="/Literatur/M/Tucholsky, Kurt/Werke/1930/Proteste gegen die Dreigroschenoper">
+   <teiHeader xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:a="http://www.textgrid.info/namespace/digibib/authors">
+      <fileDesc>
+         <titleStmt>
+            <title>Proteste gegen die Dreigroschenoper</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="handle">hdl:11858/00-1734-0000-0005-6C5A-5</idno><idno type="TextGridUri">textgrid:wngz.0</idno><availability>
+               
+               <p> Der annotierte Datenbestand der Digitalen Bibliothek inklusive Metadaten sowie
+                                   davon einzeln zugängliche Teile sind eine Abwandlung des Datenbestandes von
+                                   www.editura.de durch TextGrid und werden unter der Lizenz Creative Commons
+                                   Namensnennung 3.0 Deutschland Lizenz (by-Nennung TextGrid) veröffentlicht. Die
+                                   Lizenz bezieht sich nicht auf die der Annotation zu Grunde liegenden
+                                   allgemeinfreien Texte (Siehe auch Punkt 2 der Lizenzbestimmungen). </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/legalcode">Lizenzvertrag</ref>
+               </p>
+               <p>
+                  <ref target="http://creativecommons.org/licenses/by/3.0/de/"> Eine vereinfachte
+                                   Zusammenfassung des rechtsverbindlichen Lizenzvertrages in
+                                   allgemeinverständlicher Sprache </ref>
+               </p>
+               <p>
+                  <ref target="http://www.textgrid.de/Digitale-Bibliothek">Hinweise zur Lizenz und zur Digitalen Bibliothek</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kurt Tucholsky: Gesammelte Werke in zehn Bänden. Herausgegeben von Mary Gerold-Tucholsky und Fritz J. Raddatz, Reinbek bei Hamburg: Rowohlt Verlag, 1975.</title>
+                  <author key="pnd:11862444X">Tucholsky, Kurt</author>
+               </titleStmt>
+               <extent>105-</extent>
+               <publicationStmt>
+                  <date when="1975"/>
+                  <pubPlace>Hamburg</pubPlace>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date notBefore="1890" notAfter="1935"/>
+         </creation>
+         <textClass>
+            <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+               <term>verse</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+               <text>
+                  <body>
+                        
+                           
+                        
+                        
+                        <div type="text" xml:id="tg1488.2">
+                           <div type="h4">
+                              <head type="h4" xml:id="tg1488.2.1">Proteste gegen die Dreigroschenoper</head>
+
+                              <p xml:id="tg1488.2.2">Warum pfeifen in vielen Provinzstädten die Leute wie toll, wenn die <hi rend="italic" xml:id="tg1488.2.2.1">›Dreigroschenoper‹</hi> oder ein andres Stück von Brecht und Weill aufgeführt wird? Irre ich nicht, so wird da an der Bühne vorbeigepfiffen.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg1488.2.3">Wer Radau macht, ist gewöhnlich die ›rechte‹ Seite der Stadt. Diese Theaterskandale sind ein dumpfes Aufbegehren, jenem nicht unähnlich, in dem die Leute wild applaudieren, wenn nach einem Jazz ein ›guter, alter Walzer‹ gespielt wird. Es ist die Freude fünfzigjähriger Männer und ihrer etwas jüngeren Frauen, wieder in die gewohnten Gleise zu kommen – das kennen sie, das ist die gute alte Zeit, bravo! Das andre?</p>
+                              <p rend="zenoPLm4n0" xml:id="tg1488.2.4"> Das andre ist für sie das Neue schlechthin, alles, was sie verabscheuen: Sozialismus, Juden, Rußland, Pazifismus, die Abschaffung des Paragraphen 218. Störung ihrer Moral und Störung der Geschäfte, das Volk, das Gemeine . . . Pfui! Unerhört! Aufhören!</p>
+                              <p rend="zenoPLm4n0" xml:id="tg1488.2.5"> Die Nazis immer feste mit. Deren Kunstanschauungen sehen nicht den Leib eines Kunstwerks sondern nur seine Vorhaut – diese Stinkbombenwerfer funktionieren bei allem, was ihnen fremdartig erscheint und was nicht von einem Parteimitglied verfaßt ist, und da geht es <pb n="105" xml:id="tg1488.2.5.1"/> bunt durcheinander: Magnus Hirschfeld oder moderne Musik oder ein amerikanischer Kriegsfilm . . . das kommt nicht so genau drauf an.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg1488.2.6"> Es ist nun ungemein lustig zu sehen, mit welcher Vehemenz dieser verdrängte Kampf auf einem ihm eigentlich nicht adäquaten Gebiet geführt wird. Der Krach gehörte von Rechts wegen in den Magistrat, in die politische Versammlung, an die Stammtische . . . in diesen Aufführungen hat er gar nichts zu suchen. Die Brecht-Spektakel sind Anlaß, das Stück ist nur ganz selten die Ursache.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg1488.2.7"> Nun geht der Skandal aber auch noch an der Bühne vorbei.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg1488.2.8"> Brecht ist kein Jude. Brecht hat – mit wenigen Ausnahmen – nur unpolitische Gedichte geschrieben. Brecht plakatiert keine Überzeugung; es würde ihm wohl schwer fallen, denn die seine ist schwer zu eruieren. Was die Pfeifer reizt, ist unter anderm etwas, was sie ›Roheit‹ nennen, und die ist lange nicht mehr echt, die ist gemacht. Das knallt, das stinkt, das knufft und das schießt; das jagt auf Mustangs durch die Wüste, das säuft und spielt, das flucht und das hurt . . . aber so schön weit weg, in Indianien, in wo es gar nicht gibt . . . Das ist grade das Feine an dieser Kunst. Freiligrath, Freiligrath . . .</p>
+                              <p rend="zenoPLm4n0" xml:id="tg1488.2.9"> Lebte ich in Leipzig oder Kassel, so wäre ich wohl genötigt, die Krachmacher schärfstens zu bekämpfen und den Applaudierenden zu sekundieren – aber in Wahrheit haben beide unrecht. Sie haben unrecht, wenn sie mit ihrem Geschrei die Opern meinen. Sie haben recht, wenn sie ihre Welt meinen und jene, die sie hinter dem Kunstwerk zu sehen glauben. Dann allerdings ist der Kampf berechtigt: dann ist es der große Kampf, der diese Zeit durchzieht. Aber wieviel Energie wird hier verschwendet! Ist das ein Ersatz für politischen Kampf, sich auf der Galerie die Hände rot zu klatschen und denen im Parkett ordentlich eines zu besorgen? Selbst ein Sieg wäre keiner: es ändert sich nichts, wenn die kölner oder die darmstädter Bürger dem höchst ungefährlichen Brecht zujubeln. Dadurch werden die Arbeitslosen auch nicht weniger.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg1488.2.10"> Mir will scheinen, als ob der Lärm um diese Stücke zur Bedeutung der opera operata Brechts, der trotz allem eine große Begabung bleibt, in keinem rechten Verhältnis steht. Diese Dreigroschen-Philosophie: »Wie man sich bettet, so liegt man«, diese sorgsam panierte Roheit, diese messerscharf berechneten Goldgräberflüche . . . so ist das Leben ja gar nicht. Nicht einmal das in Klondyke von gestern, bestimmt nicht das in Amerika von heute . . . auch die Beziehung zu Deutschland 1930 bleibt flau. Es ist stilisiertes Bayern.</p>
+                              <p rend="zenoPLm4n0" xml:id="tg1488.2.11"> Was der Dichter da treibt, sieht aus, wie wenn sich einer an einem Hausbrand Suppe kocht. Aber das Haus brennt nicht seinetwegen.</p>
+                              <lb xml:id="tg1488.2.12"/>
+                              <byline xml:id="tg1488.2.13">
+                                 <seg xml:id="tg1488.2.13.1">
+                                    <pb n="106" xml:id="tg1488.2.13.1.1"/> · Peter Panter<lb xml:id="tg1488.2.13.1.2"/>
+Die Weltbühne, 08.04.1930, Nr. 15, S. 557.</seg>
+                              </byline>
+                              <lb xml:id="tg1488.2.14"/>
+                           </div>
+                        </div>
+                     </body>
+               </text>
+            </TEI>
