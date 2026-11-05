@@ -8,3 +8,4 @@ Reading Theatre Reviews Digitally: An Introduction to Distant Reading
 | 01 – First Steps | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/01_first_steps.ipynb) |
 | 02 – Some Basics | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/02_some_basics.ipynb) |
 | 03 – Files and Formats | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/03_file_formats.ipynb) |
+| 04 – Tables and Data Models | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/04_tables.ipynb) |
