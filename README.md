@@ -12,13 +12,21 @@ Reading Theatre Reviews Digitally: An Introduction to Distant Reading
 | 05 – The NLP Pipeline | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/05_nlp_pipeline.ipynb) |
 | 06 – nachtkritik: Metadata, Completeness, Subcorpora | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/06_nachtkritik_metadata.ipynb) |
 
-| **Python basics** | |
+## Python Basics
+
+| Notebook | |
+|---|---|
 | 1 – Commands, Variables, Types | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/python-basics-a.ipynb) |
 | 2 – Lists, Loops, Decisions | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/python-basics-b.ipynb) |
 | 3 – Dictionaries, Tables | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/python-basics-c.ipynb) |
-| **Python practice** | |
+
+## Python Practice
+
+Start with the check notebook, then continue with the practice notebook for your level.
+
+| Notebook | |
+|---|---|
 | 0 – Where am I? (check) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/python-practice-0-check.ipynb) |
-| 1 – Strings and lists | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/python-practice-1.ipynb) |
-| 2 – Loops, decisions, counting | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/python-practice-2.ipynb) |
-| 3 – Records and tables | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/python-practice-3.ipynb) |
-| | |
+| 1 – Strings and Lists | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/python-practice-1.ipynb) |
+| 2 – Loops, Decisions, Counting | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/python-practice-2.ipynb) |
+| 3 – Records and Tables | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/u-o/review-course/blob/main/notebooks/python-practice-3.ipynb) |
